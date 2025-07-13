@@ -1,6 +1,7 @@
-principal = 1000 # Principal amount
-rate = 0.05      # Interest rate in percent
-time = 3        # Time in years
-interst = (principal * rate * time) / 100  # Simple interest formula
+principal = 1000
+rate = 0.05
+time = 3
 
-print(f"The simple interest is: {interst}")
+interest = principal * rate * time
+
+print(f"The simple interest is: {interest}")
