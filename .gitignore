@@ -4,3 +4,5 @@ weather.py
 __pycache__/
 exercises/
 reports/
+data.json
+data.pkl
